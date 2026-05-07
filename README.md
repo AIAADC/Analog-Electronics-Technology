@@ -1,4 +1,21 @@
-# Analog-Electronics-Technology
-模拟电子技术
+<div align="center">
 
-点击[这里](https://github.com/AIAADC/Resources-for-sophomore-in-AIA)，返回大二资源库。
+# 🌊 模拟电子技术
+
+本仓为 AIAADC 大二课程资料仓，主要整理模拟电路课件、真题与复习资料。  
+年级总入口见：[AIA 大二课程资源总仓](https://github.com/AIAADC/Resources-for-sophomore-in-AIA)
+
+</div>
+
+---
+
+## 资料内容
+
+- `模电真题`：模拟电路相关真题资料
+- `模拟电路复习`：复习资料与整理内容
+
+## 使用建议
+
+1. 复习时先判断电路工作状态，再进入计算。
+2. 三极管、场效应管、运放和反馈是需要重点梳理的模块。
+3. 可结合年级总仓中的模拟电路入口一起使用。
